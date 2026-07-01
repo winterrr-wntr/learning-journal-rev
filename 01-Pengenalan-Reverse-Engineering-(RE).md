@@ -1,4 +1,4 @@
-#01. Pengenalan Reverse Engineering (RE) & Metodologi Analisis
+# 01. Pengenalan Reverse Engineering (RE) & Metodologi Analisis
 
 ## Apa Itu Reverse Engineering?
 
